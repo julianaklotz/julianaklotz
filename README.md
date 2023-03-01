@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julianaklotz
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 
 <!---
 julianaklotz/julianaklotz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
