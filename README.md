@@ -2,18 +2,18 @@
 <img align="right" alt="gif-Penguin" height="200" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
   <p>Welcome to my page! <br>I'm Juliana, Frontend Developer from  Curitiba, Brazil. 🌎</p>
   
-<h2>Estou aprendendo<h2>
+<h2>Estou aprendendo - I'm learning<h2>
 <img alt=java height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img alt=html height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />   
 <img alt=css height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   
-<h2>Softwares de Design que eu uso</h2>
+<h2>Softwares de Design que eu uso - Design software that I use.</h2>
 <img align="left" alt=photoshop height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt=illustrator height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 <img align="left" alt="figma" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <br><br>
 
-<h2>Redes Sociais</h2>
+<h2>Redes Sociais - Social Media</h2>
 <div>
   <a href="https://www.linkedin.com/in/julianaklotz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"/>
