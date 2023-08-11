@@ -15,7 +15,7 @@
 
 <h2>Social Media</h2>
 <div>
-  <a href="https://www.linkedin.com/in/julianaklotz/">
+  <a href="https://www.linkedin.com/in/julianaklotz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"/>
   </a>
   <a href="https://www.youtube.com/@eu.julianaklotz" target="_blank">
