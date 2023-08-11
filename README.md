@@ -2,7 +2,7 @@
 <img align="right" alt="gif-Penguin" height="200" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
   <p>Welcome to my page! <br>I'm Juliana, Frontend Developer from  Curitiba, Brazil. 🌎</p>
   
-<h2>Estou fazendo<h2>
+<h2>Estou aprendendo<h2>
 <img alt=java height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img alt=html height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />   
 <img alt=css height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
