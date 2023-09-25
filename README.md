@@ -6,6 +6,7 @@
 <img alt=java height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img alt=html height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />   
 <img alt=css height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img alt=css height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   
 <h2>Softwares de Design que eu uso - Design software that I use.</h2>
 <img align="left" alt=photoshop height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
@@ -34,3 +35,6 @@
 
 <h2>Sobre mim</h2>
 <p>Estou em transição de carreira, migrando do Design Gráfico para o Desenvolvimento Front-End. Minha sólida base em design me permite trazer uma paixão pela estética e usabilidade para o mundo da programação. Com experiência em UX e UI, estou focada em aprimorar minhas habilidades em HTML, CSS e JavaScript. Atualmente, estou cursando pós-graduação em Desenvolvimento Full Stack para aprofundar ainda mais meus conhecimentos. Tenho o entusiasmo de unir minha criatividade e atenção aos detalhes na criação de interfaces funcionais e envolventes, buscando construir experiências digitais impactantes.</p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaklotz&layout=compact&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=julianaklotz&show_icons=true&theme=radical" />
