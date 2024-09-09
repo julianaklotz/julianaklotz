@@ -1,13 +1,11 @@
-<h2>Oii! &#9995; <br>Eu sou a Juliana, Desenvolvedora Front-End! </h2>
+<h2>Oii! &#9995; <br>Eu sou a Juliana, Desenvolvedora! </h2>
 <img align="right" alt="gif-Penguin" height="200" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
-  <p>Welcome to my page! <br>I'm Juliana, Frontend Developer from  Curitiba, Brazil. 🌎</p>
+  <p>Welcome to my page! <br>I'm Juliana, Developer from  Curitiba, Brazil. 🌎</p>
   
 <h2>Estou aprendendo - I'm learning<h2>
-<img alt=java height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt=python height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img alt=html height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />   
 <img alt=css height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img alt=angular height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img alt=java height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
 <h2>Softwares de Design que eu uso - Design software that I use.</h2>
 <img align="left" alt=photoshop height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
@@ -35,7 +33,7 @@
 </div>
 
 <h2>Sobre mim</h2>
-<p>Estou em transição de carreira, migrando do Design Gráfico para o Desenvolvimento Front-End. Minha sólida base em design me permite trazer uma paixão pela estética e usabilidade para o mundo da programação. Com experiência em UX e UI, estou focada em aprimorar minhas habilidades em HTML, CSS e JavaScript. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas para aprofundar ainda mais meus conhecimentos. Tenho o entusiasmo de unir minha criatividade e atenção aos detalhes na criação de interfaces funcionais e envolventes, buscando construir experiências digitais impactantes.</p>
+<p>Sou formada em Design Gráfico a 6 anos, e atualmente estou em transição de carreira para a área de tecnologia, focando meus estudos em Desenvolvimento e Tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, tenho conhecimento em HTML, CSS e Python. Sou uma pessoa que gosta de estudar, e sempre estou motivada a melhorar meu desempenho e conhecimento.</p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaklotz&layout=compact&theme=radical" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=julianaklotz&show_icons=true&theme=radical" />
